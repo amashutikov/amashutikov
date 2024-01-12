@@ -6,7 +6,7 @@
 
 ## Technology Stack 🚀
 
-### Front-End (Client-Side) Skills:
+### Front-End Skills:
 - React Native
 - React.js
 - Next.js
@@ -19,7 +19,7 @@
 - Tailwind CSS
 - Styled Components
 
-### Back-End (Server-Side) Expertise:
+### Back-End Expertise:
 - Node.js
 - Express.js
 - Axios
